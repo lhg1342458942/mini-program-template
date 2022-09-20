@@ -1,0 +1,6 @@
+/**app.wxss**/
+@import './icons/iconfont.wxss';
+
+.container {
+  min-height: 100vh;
+}
